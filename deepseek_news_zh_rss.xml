@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>DeepSeek 研究与动态</title>
+    <link>https://www.deepseek.com/news/</link>
+    <description>DeepSeek 官方网站的研究与动态。</description>
+    <language>zh-CN</language>
+    <generator>deepseek-rss-feed</generator>
+    <item>
+      <title>DeepSeek V4.1 Flash：更强、更快、更普惠</title>
+      <link>https://www.deepseek.com/news/deepseek-v4-1-flash/</link>
+      <guid isPermaLink="true">https://www.deepseek.com/news/deepseek-v4-1-flash/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>DeepSeek V4.1 Flash 正式发布，具备原生多模态视觉理解能力。全新非对称模型结构，能力更强、速度更快、成本更低。</description>
+    </item>
+    <item>
+      <title>DeepSeek-V4 预览版：迈入百万上下文普惠时代</title>
+      <link>https://www.deepseek.com/news/v4-preview/</link>
+      <guid isPermaLink="true">https://www.deepseek.com/news/v4-preview/</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <description>DeepSeek 全新系列模型 V4 预览版正式上线并同步开源，拥有百万字超长上下文。</description>
+    </item>
+    <item>
+      <title>DeepSeek V3.2 正式版：强化 Agent 能力，融入思考推理</title>
+      <link>https://www.deepseek.com/news/deepseek-v3-2/</link>
+      <guid isPermaLink="true">https://www.deepseek.com/news/deepseek-v3-2/</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>DeepSeek-V3.2 和 V3.2-Speciale 正式发布。</description>
+    </item>
+    <item>
+      <title>DeepSeek-V3.2-Exp 发布，训练推理提效，API 同步降价</title>
+      <link>https://www.deepseek.com/news/deepseek-v3-2-exp/</link>
+      <guid isPermaLink="true">https://www.deepseek.com/news/deepseek-v3-2-exp/</guid>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <description>DeepSeek-V3.2-Exp 正式发布，引入 DeepSeek Sparse Attention 稀疏注意力机制，API 价格降低 50% 以上。</description>
+    </item>
+    <item>
+      <title>DeepSeek-V3.1 版本更新</title>
+      <link>https://www.deepseek.com/news/deepseek-v3-1/</link>
+      <guid isPermaLink="true">https://www.deepseek.com/news/deepseek-v3-1/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <description>DeepSeek-V3.1 更新至 Terminus 版本，缓解中英文混杂问题，优化 Code Agent 与 Search Agent 表现。</description>
+    </item>
+  </channel>
+</rss>
