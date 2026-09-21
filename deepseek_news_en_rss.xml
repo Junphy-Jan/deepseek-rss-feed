@@ -1,45 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>DeepSeek Research &amp; News</title>
-    <link>https://www.deepseek.com/en/news/</link>
+    <link>https://raw.githubusercontent.com/Junphy-Jan/deepseek-rss-feed/main/deepseek_news_en_rss.xml</link>
     <description>Research and news from the official DeepSeek website.</description>
-    <language>en</language>
+    <atom:link href="https://raw.githubusercontent.com/Junphy-Jan/deepseek-rss-feed/main/deepseek_news_en_rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>deepseek-rss-feed</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Sep 2026 03:24:12 +0000</lastBuildDate>
     <item>
-      <title>Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.</title>
-      <link>https://www.deepseek.com/en/news/deepseek-v4-1-flash/</link>
-      <guid isPermaLink="true">https://www.deepseek.com/en/news/deepseek-v4-1-flash/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Introducing the smallest model in DeepSeek's new architecture family, with native visual understanding.</description>
-    </item>
-    <item>
-      <title>DeepSeek-V4 Preview: Entering the Era of Affordable Million-Token Context</title>
-      <link>https://www.deepseek.com/en/news/v4-preview/</link>
-      <guid isPermaLink="true">https://www.deepseek.com/en/news/v4-preview/</guid>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <description>DeepSeek-V4 Preview is officially live and open-sourced, bringing affordable 1M context length.</description>
-    </item>
-    <item>
-      <title>DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models</title>
-      <link>https://www.deepseek.com/en/news/deepseek-v3-2/</link>
-      <guid isPermaLink="true">https://www.deepseek.com/en/news/deepseek-v3-2/</guid>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <description>Launching DeepSeek-V3.2 and DeepSeek-V3.2-Speciale, reasoning-first models built for agents.</description>
+      <title>DeepSeek-V3.1 is now DeepSeek-V3.1-Terminus</title>
+      <link>https://www.deepseek.com/en/news/v3-1-terminus</link>
+      <description>DeepSeek-V3.1-Terminus improves language consistency, reduces CN/EN mix-ups, and upgrades Code Agent &amp; Search Agent performance.</description>
+      <guid isPermaLink="false">https://www.deepseek.com/en/news/v3-1-terminus</guid>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Introducing DeepSeek-V3.2-Exp</title>
-      <link>https://www.deepseek.com/en/news/deepseek-v3-2-exp/</link>
-      <guid isPermaLink="true">https://www.deepseek.com/en/news/deepseek-v3-2-exp/</guid>
+      <link>https://www.deepseek.com/en/news/v3-2-exp</link>
+      <description>DeepSeek-V3.2-Exp debuts DeepSeek Sparse Attention (DSA) for faster, more efficient training &amp; inference on long context, with API prices cut by 50%+.</description>
+      <guid isPermaLink="false">https://www.deepseek.com/en/news/v3-2-exp</guid>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <description>DeepSeek-V3.2-Exp debuts DeepSeek Sparse Attention (DSA) for faster, more efficient training and inference on long context.</description>
     </item>
     <item>
-      <title>DeepSeek-V3.1 is now DeepSeek-V3.1-Terminus</title>
-      <link>https://www.deepseek.com/en/news/deepseek-v3-1/</link>
-      <guid isPermaLink="true">https://www.deepseek.com/en/news/deepseek-v3-1/</guid>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <description>DeepSeek-V3.1-Terminus improves language consistency, reduces CN/EN mix-ups, and upgrades Code Agent and Search Agent performance.</description>
+      <title>DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models</title>
+      <link>https://www.deepseek.com/en/news/deepseek-v3-2</link>
+      <description>DeepSeek-V3.2 and V3.2-Speciale launch with world-leading reasoning, thinking in tool-use, and gold-medal performance in IMO, CMO, ICPC &amp; IOI 2025.</description>
+      <guid isPermaLink="false">https://www.deepseek.com/en/news/deepseek-v3-2</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-V4 Preview: Entering the Era of Affordable Million-Token Context</title>
+      <link>https://www.deepseek.com/en/news/v4-preview</link>
+      <description>DeepSeek-V4 Preview is officially live &amp; open-sourced. Welcome to the era of cost-effective 1M context length.</description>
+      <guid isPermaLink="false">https://www.deepseek.com/en/news/v4-preview</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.</title>
+      <link>https://www.deepseek.com/en/news/deepseek-v4-1-flash</link>
+      <description>Introducing the smallest model in our new architecture family, with native visual understanding. Designed for greater capability, faster inference, and higher throughput.</description>
+      <guid isPermaLink="false">https://www.deepseek.com/en/news/deepseek-v4-1-flash</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
