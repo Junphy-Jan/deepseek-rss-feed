@@ -23,8 +23,6 @@ https://raw.githubusercontent.com/junphy-jan/deepseek-rss-feed/main/deepseek_new
 https://raw.githubusercontent.com/junphy-jan/deepseek-rss-feed/main/deepseek_news_en_rss.xml
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username or organization.
-
 ## Features
 
 - Separate Chinese (`zh-CN`) and English (`en`) feeds.
@@ -53,17 +51,9 @@ python deepseek_rss.py
 
 The two XML files will be generated in the repository root.
 
-## Why Playwright?
-
-DeepSeek's news index is rendered as a web application. Playwright provides a browser-based fetch while the scraper deliberately avoids relying on generated CSS class names.
-
-The scraper uses the semantic `/news/` URL pattern plus visible date/title text, which is more resilient to frontend styling changes.
-
 ## Update schedule
 
 GitHub Actions runs every 6 hours. GitHub scheduled workflows are not guaranteed to start at the exact minute, so a small delay is normal.
-
-You can also trigger the workflow manually.
 
 ## Disclaimer
 
