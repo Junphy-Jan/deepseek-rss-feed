@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 Generate unofficial RSS feeds from DeepSeek's public News pages.
@@ -703,4 +702,3 @@ async def run() -> None:
 
 if __name__ == "__main__":
     asyncio.run(run())
-```
