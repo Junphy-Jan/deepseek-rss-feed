@@ -14,13 +14,13 @@ After pushing this repository to GitHub, subscribe to:
 ### 中文
 
 ```text
-https://raw.githubusercontent.com/YOUR_USERNAME/deepseek-rss-feed/main/deepseek_news_zh_rss.xml
+https://raw.githubusercontent.com/junphy-jan/deepseek-rss-feed/main/deepseek_news_zh_rss.xml
 ```
 
 ### English
 
 ```text
-https://raw.githubusercontent.com/YOUR_USERNAME/deepseek-rss-feed/main/deepseek_news_en_rss.xml
+https://raw.githubusercontent.com/junphy-jan/deepseek-rss-feed/main/deepseek_news_en_rss.xml
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username or organization.
