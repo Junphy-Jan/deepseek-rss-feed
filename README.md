@@ -9,8 +9,6 @@ Source pages:
 
 ## Feeds
 
-After pushing this repository to GitHub, subscribe to:
-
 ### 中文
 
 ```text
